@@ -8,7 +8,7 @@ def opc1_fun():
         os.system("cls")   
         pprint("------------------------------------------------")
         pprint("|                                              |")
-        pprint("|            NETWORKS BABYSITTING              |")
+        pprint("|            NETWORKS NIZAR                    |")
         pprint("|                                              |")
         pprint("------------------------------------------------") 
         pprint('')
